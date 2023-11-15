@@ -1,0 +1,9 @@
+input:hover{
+    background-color: lightblue;
+}
+label:hover{
+    background-color: lightblue;
+}
+label{
+    padding: 10px;
+}
